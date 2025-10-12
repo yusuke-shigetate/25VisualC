@@ -1,0 +1,28 @@
+@charset "utf-8";
+body{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+body h1 {
+	color: #FF0000;
+	font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+	text-align: center;
+}
+.key {
+	color: #0FF00F;
+	/*background-color: #0532F4;*/
+	font-size: x-large;
+}
+
+.back {
+	color: #FFFFFF;
+	font-size: x-large;
+	background-color: #0532F4;
+}
+
+body p img {
+	border: 10px outset #1BA6ED;
+}

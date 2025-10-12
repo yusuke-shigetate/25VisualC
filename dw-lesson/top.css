@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body ul {
+	line-height: 50px;
+	
+}
+body li a{
+	background-color: #FFFFFF;
+	font-size: x-large;
+}
+
+body{
+	background-image: url("shinnarasino.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
